@@ -16,14 +16,7 @@ header{
 
 }
 
-#imagem-principal {
-    width: 10%;
-    height: 50%;
-    margin-left: 2%;
-    margin-right: 2%;
-    border: solid #0000CD;
-    display: block;
-}
+
 
 h1{
     font-size: 60px;
